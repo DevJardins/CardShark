@@ -1,2 +1,2 @@
 # CardShark
-A tool to practice BlackJack basic strategy and to learn card counting strategy.
+Python tool for learning BlackJack basic strategy and eventually card counting.
