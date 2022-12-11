@@ -45,9 +45,6 @@ print('You are playing with', len(playDeck), 'cards')
 #Create a random number generator for the deck
 random.shuffle(playDeck)
 
-#Create a random number generator for the deck
-random.shuffle(playDeck)
-
 #decrement cards from deck based on dealer and player hand
 dealerHand = playDeck.pop(1)
 dealerHand1 = playDeck.pop(1)
